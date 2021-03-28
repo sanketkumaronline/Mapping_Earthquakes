@@ -33,16 +33,16 @@ Also, there are three map styles to choose from:
 
 **Map With All The Earthquake Data Options and Popup**
 
-![All Map Features](./Images/eq-street-all.PNG)
+![All Map Features](./Images/eq-street-all.png)
 
 **Streets Map With Earthquake Markers**
 
-![Street Mapp with Earthquake Markers](./Images/eq-street-map.PNG) 
+![Street Mapp with Earthquake Markers](./Images/eq-street-map.png) 
 
 **Satellite Map With Tectonic Plates**
 
-![Satellite Map with Tectonic Plates](./Images/eq-satellite-tectonic.PNG) 
+![Satellite Map with Tectonic Plates](./Images/eq-satellite-tectonic.png) 
 
 **Dark Map With Major Earthquake Markers**
 
-![Dark Map with Major Earthquakes](./Images/eq-dark-major.PNG)
+![Dark Map with Major Earthquakes](./Images/eq-dark-major.png)
